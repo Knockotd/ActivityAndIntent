@@ -1,1 +1,1 @@
-include ':1015ActivityAndIntent'
+include ':1015ActivityAndIntent', ':1016systemskillactivity'
